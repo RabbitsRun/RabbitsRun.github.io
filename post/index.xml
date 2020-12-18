@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on Remedios</title>
+    <link>http://RabbitsRun.github.io/post/</link>
+    <description>Recent content in Articles on Remedios</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Dec 2020 21:11:26 +0800</lastBuildDate><atom:link href="http://RabbitsRun.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Solitude of Latin America</title>
+      <link>http://RabbitsRun.github.io/post/blog2/</link>
+      <pubDate>Fri, 18 Dec 2020 20:52:05 +0800</pubDate>
+      
+      <guid>http://RabbitsRun.github.io/post/blog2/</guid>
+      <description>Antonio Pigafetta, a Florentine navigator who went with Magellan on the first voyage around the world, wrote, upon his passage through our southern lands of America, a strictly accurate account that nonetheless resembles a venture into fantasy. In it he recorded that he had seen hogs with navels on their haunches, clawless birds whose hens laid eggs on the backs of their mates, and others still, resembling tongueless pelicans, with beaks like spoons.</description>
+    </item>
+    
+    <item>
+      <title>Award Ceremony Speech</title>
+      <link>http://RabbitsRun.github.io/post/blog1/</link>
+      <pubDate>Fri, 18 Dec 2020 19:06:41 +0800</pubDate>
+      
+      <guid>http://RabbitsRun.github.io/post/blog1/</guid>
+      <description>Presentation Speech by Professor Lars Gyllensten of the Swedish Academy Translation from the Swedish text
+ Your Majesties, Your Royal Highnesses, Ladies and Gentlemen,
+With this year&amp;rsquo;s Nobel Prize in Literature to Gabriel García Márquez the Swedish Academy cannot be said to bring forward an unknown writer.
+García Márquez achieved unusual success as a writer with his novel Cien años de soledad in 1967 (One Hundred Years of Solitude). The book has been translated into a large number of languages and has sold millions of copies.</description>
+    </item>
+    
+  </channel>
+</rss>
